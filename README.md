@@ -1,7 +1,7 @@
-# Predict if a customer will leave the company !
+# Predict if a customer will leave the company or no !
 
-using the [chrurn dataset](https://www.kaggle.com/filemide/churns#churn_train.csv) investigate the features and there affect on the customer.
+This note book investigate the features and there affect on the customer.
 
-then build a logistic regression classifier to predict if a given customer will churn or not !
+using the [chrurn dataset](https://www.kaggle.com/filemide/churns#churn_train.csv)
 
 ![churn](chrun.jpeg)
